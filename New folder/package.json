@@ -1,0 +1,10 @@
+{
+  "name": "copartcodingexercise",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "csvtojson":"1.1.0",
+    "mysql": "^2.5.4",
+    "request": "^2.69.0"
+  }
+}

@@ -25,7 +25,9 @@ We are using www.zipcodeapi.com API, which allows only 50 requests per hour. The
 So to compare the input postal code with each one is not possible. So we reduced the copart location list to 7 in the code
 
 //long[] copartLocations = {99501, 36613, 35023, 36116, 35671, 79601, 97218};<br/>
-for  problem <strong>Move attached CSV data into DB and fetch lat, Long coordinates for Location column using google map API. </strong>
+
+
+for  problem <strong><em>Move attached CSV data into DB and fetch lat, Long coordinates for Location column using google map API. </em></strong>
  In the code, see for mysql connection                        
  remove that password and use some other password                        
   similarly, use another db name and table name
